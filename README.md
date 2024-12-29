@@ -185,4 +185,21 @@ void loop() {
 }
 ```
 
+## 🤝 Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+---
+
+## 📧 Contact
+If you have any questions or suggestions, feel free to reach out:
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/thushan-themiya-0579201aa/)
+
+---
+
+Thank you for checking out my project! ⭐ If you like this project, consider giving it a star on GitHub!
 
